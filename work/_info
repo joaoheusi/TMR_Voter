@@ -1,0 +1,123 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Etmr
+Z0 w1604965802
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Projects/TMR_Voter
+Z4 8Voter.vhd
+Z5 FVoter.vhd
+l0
+L5
+VQCL3dGXP`VgYgV_aN43V23
+!s100 l@D1^1H@M_iZG?HgAW5EE1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1604966639
+!i10b 1
+Z8 !s108 1604966639.000000
+Z9 !s90 -reportprogress|300|Voter.vhd|testbench.vhd|
+Z10 !s107 testbench.vhd|Voter.vhd|
+!i113 1
+o-O0
+Z11 tExplicit 1
+Aarch_1
+R1
+R2
+DEx4 work 3 tmr 0 22 QCL3dGXP`VgYgV_aN43V23
+l16
+L14
+VIdbO?FNg`XknD_Wa8m0AM2
+Z12 !s100 lg5LlZ<0=JgDXPEa`?80c2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+o-O0
+R11
+Etmr_test
+Z13 w1604965825
+R1
+R2
+R3
+Z14 8testbench.vhd
+Z15 Ftestbench.vhd
+l0
+L8
+V3<C3H]i_5PnXlJ>^YEV6I2
+!s100 j_4BJkmj5J8dP14lHHC6z1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+o-O0
+R11
+Aarch_1
+R1
+R2
+DEx4 work 8 tmr_test 0 22 3<C3H]i_5PnXlJ>^YEV6I2
+l24
+L12
+V0GIVI]0ij:Qoz0F[gAXTl2
+Z16 !s100 Z8N^6_TQQ6YeP5ILmS6691
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+o-O0
+R11
+Evoter
+Z17 w1604962041
+R3
+Z18 8D:/Projects/TMR_Voter/Voter.vhd
+Z19 FD:/Projects/TMR_Voter/Voter.vhd
+l0
+L1
+VGinkG<j2^e_?<:@`ShY:O3
+!s100 3KjNl4S:1KBR>H;PK8Whk1
+R6
+32
+Z20 !s110 1604964919
+!i10b 1
+Z21 !s108 1604964919.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Projects/TMR_Voter/Voter.vhd|
+Z23 !s107 D:/Projects/TMR_Voter/Voter.vhd|
+!i113 1
+Z24 o-work work -2002 -explicit -O0
+R11
+Asim
+DEx4 work 5 voter 0 22 GinkG<j2^e_?<:@`ShY:O3
+l8
+L6
+V385?32NkhnS5Y6in:l_n73
+!s100 XgM4`4?5li7McFDHbPm?K2
+R6
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R24
+R11
